@@ -16,4 +16,4 @@
     *. در رویداد کلیک یک Button، این تابع را ۳ بار با شرایط مختلف و حتماً با استفاده از Named Arguments فراخوانی کنید.
 </div>
 
-## Writed in => **Practice1.cs** 🎁
+## Writed in => ```Practice1.cs``` 🎁
