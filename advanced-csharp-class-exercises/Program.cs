@@ -16,7 +16,7 @@ namespace advanced_csharp_class_exercises
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Practice1());
         }
     }
 }

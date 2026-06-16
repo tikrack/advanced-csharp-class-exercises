@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace advanced_csharp_class_exercises
 {
-    public partial class Form1 : Form
+    public partial class Practice1 : Form
     {
-        public Form1()
+        public Practice1()
         {
             InitializeComponent();
         }
